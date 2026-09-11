@@ -1,0 +1,10 @@
+{
+  "name": "ai-code-detector-heuristic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Dependency-free, reviewable code-style heuristic signals.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
